@@ -1,0 +1,22 @@
+{
+  "name": "js-watermark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsiaZmudziak/node-js-watermark.git"
+  },
+  "author": "Asia Zmudziak asiazmudziak@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsiaZmudziak/node-js-watermark/issues"
+  },
+  "homepage": "https://github.com/AsiaZmudziak/node-js-watermark#readme",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
